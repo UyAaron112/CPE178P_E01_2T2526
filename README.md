@@ -6,7 +6,7 @@ Lab01 done
 
 Lab02 pending
 
-Lab03 pending
+Lab03 done
 
 Lab04 pending
 
